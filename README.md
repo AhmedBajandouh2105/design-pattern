@@ -1,2 +1,2 @@
-# singleton
-practice on singleton
+# Design_Pattern
+practice on Design_Pattern
